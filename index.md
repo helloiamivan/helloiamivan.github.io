@@ -3,13 +3,15 @@
 
 Location : Singapore\
 Email    : ivan.chan11@alumni.imperial.ac.uk\
-Mobile   : +65 8874 5581
+Mobile   : +65 8874 5581\
+LinkedIn : https://www.linkedin.com/in/ivanzchan/
 
 Education
 ---------------------------------------------------------------------------------------------------------
 ```
 Imperial College London
-BEng (Hons) Electrical & Electronic Engineering, 1st Class Hons, Dean's List 2011/2012 (Top 10%)
+BEng (Hons) Electrical & Electronic Engineering
+First Class Hons, Dean's List 2011/2012 (Top 10%)
 London, Oct 2011 - Jun 2014
 ```
 
@@ -26,6 +28,7 @@ General Interests
 - Quantitative Trading / Research / Software Development
 - Web 3.0 / Blockchain / DeFi
 - Hiking
+
 ```
 
 Work Experience
@@ -97,6 +100,7 @@ from historical tick data feeds
 ```
 Software Engineering Intern @ Goldman Sachs
 London, Jun 2013 - Aug 2013
+
 - Spent 10 weeks on the summer training program, focusing on Java/Slang development for fixed income trading applications
 - Designed and implemented a usage logging tool which tracks a trader’s actions and performed analysis on his behaviour
 - Generated reports based on these actions and provided room for automated trade reporting and enhanced feature migration
