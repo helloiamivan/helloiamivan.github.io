@@ -8,9 +8,9 @@ Mobile   : +65 8874 5581
 Education
 ---------------------------------------------------------------------------------------------------------
 ```
-BEng (Hons) Electrical & Electronic Engineering @ Imperial College London
+Imperial College London
+BEng (Hons) Electrical & Electronic Engineering, 1st Class Hons, Dean's List 2011/2012 (Top 10%)
 London, Oct 2011 - Jun 2014
-First Class Honours, Engineering Dean's List 2011/2012 (Top 10%)
 ```
 
 Skills & Interests
@@ -22,8 +22,8 @@ Languages
 Computer Skills
 - MATLAB, Python, Javascript, KDB/Q, SQL, Cloud Infrastructure
 
-Interests
-- Quantitative Trading / Research / Development
+General Interests
+- Quantitative Trading / Research / Software Development
 - Web 3.0 / Blockchain / DeFi
 - Hiking
 ```
