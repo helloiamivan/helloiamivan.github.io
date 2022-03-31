@@ -91,9 +91,8 @@ Quantitative Development / Research Intern @ Quadrature Capital LLP
 London, Jun 2014 - Sep 2014
 
 - Researched high-frequency limit order books, micro market structure and systematic trading strategies in NASDAQ equities
-- Utilized supervised learning (linear regression) and historical normalization techniques in order to create robust limit order arrival predictors
-from historical tick data feeds
-- Generated high frequency market-making ideas in single stocks, designed efficient implementation algorithms and back tested the strategies
+- Utilized statistical techniques to create robust limit order arrival predictors from historical tick data feeds
+- Generated high frequency market-making ideas in single stocks, designed efficient implementation algorithms and backtested the strategies
 
 ```
 
