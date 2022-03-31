@@ -3,7 +3,6 @@
 
 Location : Singapore\
 Email    : ivan.chan11@alumni.imperial.ac.uk\
-Mobile   : +65 8874 5581\
 LinkedIn : https://www.linkedin.com/in/ivanzchan/
 
 Education
