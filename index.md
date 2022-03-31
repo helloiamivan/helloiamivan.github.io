@@ -1,18 +1,33 @@
 # **Ivan Chan**
-### Quantitative Trading
-Location: Singapore\
-Email: ivan.chan11@alumni.imperial.ac.uk\
-Mobile +65 8874 5581
+### Quantitative Trading & Research
+
+Location : Singapore\
+Email    : ivan.chan11@alumni.imperial.ac.uk\
+Mobile   : +65 8874 5581
 
 Education
 ---------------------------------------------------------------------------------------------------------
 ```
-Imperial College London
+BEng (Hons) Electrical & Electronic Engineering @ Imperial College London
 London, Oct 2011 - Jun 2014
-BEng (Hons) Electrical & Electronic Engineering
 First Class Honours, Engineering Dean's List 2011/2012 (Top 10%)
-
 ```
+
+Skills & Interests
+---------------------------------------------------------------------------------------------------------
+```
+Languages
+- Fluent in English and Mandarin Chinese
+
+Computer Skills
+- MATLAB, Python, Javascript, KDB/Q, SQL, Cloud Infrastructure
+
+Interests
+- Quantitative Trading / Research / Development
+- Web 3.0 / Blockchain / DeFi
+- Hiking
+```
+
 Work Experience
 ---------------------------------------------------------------------------------------------------------
 ```
