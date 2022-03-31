@@ -21,7 +21,8 @@ Languages
 - Fluent in English and Mandarin Chinese
 
 Computer Skills
-- MATLAB, Python, Javascript, KDB/Q, SQL, Cloud Infrastructure
+- MATLAB, Python, JavaScript, KDB/Q, SQL
+- Cloud Infrastructure, POSIX systems
 
 General Interests
 - Quantitative Trading / Research / Software Development
@@ -44,7 +45,7 @@ Singapore, Sep 2021 - Present
 
 ```
 Quantitative Trader, Vice President @ JP Morgan Chase
-London, Apr 2022 - Aug 2021
+London, Apr 2020 - Aug 2021
 
 - Quantitative trader on the Delta One team, systematically trading ETFs, single stocks and futures across global exchanges
 - High frequency basis trading (index arbitrage) and mid frequency single stocks long / short strategies
