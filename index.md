@@ -1,9 +1,9 @@
 # **Ivan Chan**
 ## Quantitative Trading & Research
 
-Location : Singapore\
-Email    : ivan.chan11@alumni.imperial.ac.uk\
-LinkedIn : https://www.linkedin.com/in/ivanzchan/
+🌎 : Singapore\
+📧 : ivan.chan11@alumni.imperial.ac.uk\
+👤 : https://www.linkedin.com/in/ivanzchan/
 
 Education
 ---------------------------------------------------------------------------------------------------------
