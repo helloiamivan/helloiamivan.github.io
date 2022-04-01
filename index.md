@@ -7,41 +7,41 @@
 
 Education
 ---------------------------------------------------------------------------------------------------------
-```
-Imperial College London
-BEng (Hons) Electrical & Electronic Engineering
+<pre>
+<b>Imperial College London
+BEng (Hons) Electrical & Electronic Engineering</b>
 First Class Hons, Dean's List 2011/2012 (Top 10%)
 London, Oct 2011 - Jun 2014
-```
+</pre>
 
 Skills & Interests
 ---------------------------------------------------------------------------------------------------------
-```
-Languages
+<pre>
+<b>Languages</b>
 - Fluent in English and Mandarin Chinese
 
-Computer Skills
+<b>Computer Skills</b>
 - MATLAB, Python, JavaScript, KDB/Q, SQL
 - Cloud Infrastructure, POSIX systems
 
-General Interests
+<b>General Interests</b>
 - Quantitative Trading / Research / Software Development
 - Web 3.0 / Blockchain / DeFi
 - Hiking
 
-```
+</pre>
 
 Work Experience
 ---------------------------------------------------------------------------------------------------------
-```
-Trader @ Quantlab Group
-Singapore, Sep 2021 - Present
+<pre>
+<b>Trader @ Quantlab Group
+<i>Singapore, Sep 2021 - Present</i></b>
 
 - Live coverage of high frequency algorithmic trading in APAC exchanges
 - Apply risk management principles in the design and implementation of new quantitative trading strategies and the optimization of existing strategies
 - Develop risk monitoring tools to aid in strategy maintenance
 
-```
+</pre>
 
 ```
 Quantitative Trader, Vice President @ JP Morgan Chase
