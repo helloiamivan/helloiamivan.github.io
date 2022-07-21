@@ -3,7 +3,7 @@
 
 🌎 Singapore\
 [📧](mailto:ivan.chan11@alumni.imperial.ac.uk) ivan.chan11@alumni.imperial.ac.uk\
-[👤](https://www.linkedin.com/in/ivanzchan/) https://www.linkedin.com/in/ivanzchan/\
+[👤](https://www.linkedin.com/in/ivanzchan/) https://www.linkedin.com/in/ivanzchan/ \
 [🖥](https://github.com/helloiamivan) https://github.com/helloiamivan
 
 Education
