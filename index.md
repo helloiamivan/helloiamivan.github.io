@@ -1,6 +1,8 @@
 # **Ivan Chan**
 ## Quantitative Trading & Research
 
+<a href="./files/IVAN_CHAN.pdf" download>Download My CV</a>
+
 🌎 Singapore\
 [📧](mailto:ivan.chan11@alumni.imperial.ac.uk) ivan.chan11@alumni.imperial.ac.uk\
 [👤](https://www.linkedin.com/in/ivanzchan/) https://www.linkedin.com/in/ivanzchan/ \
