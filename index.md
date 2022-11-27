@@ -8,9 +8,10 @@
 [👤](https://www.linkedin.com/in/ivanzchan/) https://www.linkedin.com/in/ivanzchan/ \
 [🖥](https://github.com/helloiamivan) https://github.com/helloiamivan
 
- <a href="./files/IVAN_CHAN.pdf" download="GFG">
-         <button type="button">⬇️ Download PDF CV</button>
-         </a><br></br>
+<!-- PDF Download -->
+ <a href="./files/IVAN_CHAN.pdf" download="IVAN_CV">
+ <button class="btn"><i class="fa fa-download"></i>
+ ⬇️ Download PDF CV</button></a>
 
 Education
 ---------------------------------------------------------------------------------------------------------
