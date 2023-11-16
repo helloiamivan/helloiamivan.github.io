@@ -9,7 +9,7 @@
 [🖥](https://github.com/helloiamivan) https://github.com/helloiamivan
 
 <!-- PDF Download -->
- <a href="./files/IVAN_CHAN.pdf" download="IVAN_CV">
+ <a href="./files/IVAN_CHAN.pdf" download="IVAN_CHAN">
  <button class="btn"><i class="fa fa-download"></i>
  ⬇️ Download PDF CV</button></a>
 
@@ -46,7 +46,7 @@ Work Experience
 
 - Live coverage of high frequency algorithmic trading in APAC exchanges
 - Apply risk management principles in the design and implementation of new quantitative trading strategies and the optimization of existing strategies
-- Develop risk monitoring tools to aid in strategy maintenance
+- Develop risk monitoring and performance visualization tools to aid in strategy maintenance
 
 </pre>
 
