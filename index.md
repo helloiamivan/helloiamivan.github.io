@@ -42,7 +42,7 @@ Work Experience
 ---------------------------------------------------------------------------------------------------------
 <pre>
 <b>Trader @ Quantlab Group
-<i>Singapore, Sep 2021 - Present</i></b>
+<i>Singapore, Sep 2021 - Mar 2024</i></b>
 
 - Live coverage of high frequency algorithmic trading in APAC exchanges
 - Apply risk management principles in the design and implementation of new quantitative trading strategies and the optimization of existing strategies
