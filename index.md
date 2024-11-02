@@ -41,6 +41,15 @@ Skills & Interests
 Work Experience
 ---------------------------------------------------------------------------------------------------------
 <pre>
+<b>Quantitative Trader @ Qube Research & Technologies
+<i>Singapore, Sep 2024 - Present</i></b>
+
+- Deliver systematic execution strategies in live production
+- APAC coverage
+
+</pre>
+
+<pre>
 <b>Trader @ Quantlab Group
 <i>Singapore, Sep 2021 - Mar 2024</i></b>
 
