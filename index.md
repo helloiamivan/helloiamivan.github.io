@@ -44,8 +44,9 @@ Work Experience
 <b>Quantitative Trader @ Qube Research & Technologies
 <i>Singapore, Sep 2024 - Present</i></b>
 
-- Deliver systematic execution strategies in live production for APAC markets
-- Monetization of high frequency / intraday signals in a centralized execution pool
+- Deliver systematic execution strategies in live production for APAC equity markets
+- Monetization of high / mid frequency (intraday) signals in a centralized execution pool
+- Design and implement new trading strategies specific to alpha-based execution
 
 </pre>
 
